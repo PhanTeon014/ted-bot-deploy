@@ -1,0 +1,46 @@
+[
+  {
+    "id": "AC00D45A6644676D9381E3B5C2AF0587",
+    "from": "120363428167467522@g.us",
+    "participant": "202710343250003@lid",
+    "timestamp": 1787988710807,
+    "type": "sticker",
+    "content": "[Figurinha]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACEC630E37A16664F947B96FD224A8C7",
+    "from": "120363428167467522@g.us",
+    "participant": "202710343250003@lid",
+    "timestamp": 1787988711921,
+    "type": "sticker",
+    "content": "[Figurinha]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACDBCDBF246F1FA10EDE700D00F84D73",
+    "from": "120363428167467522@g.us",
+    "participant": "23902214463623@lid",
+    "timestamp": 1787991066250,
+    "type": "text",
+    "content": "Olha o nome kkkkkkk",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A51AE090165872952F3161F385DF1041",
+    "from": "120363428167467522@g.us",
+    "participant": "116965515481224@lid",
+    "timestamp": 1787995808181,
+    "type": "unknown",
+    "content": "[Mensagem não suportada]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "AC12CC07CADB30494DBB04572F9080C1",
+    "from": "120363429449540402@g.us",
+    "participant": "79092225446017@lid",
+    "timestamp": 1788283022842,
+    "type": "text",
+    "content": "oh dó",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A50ED610175CDCB3A1AF05FCCF6B50E5",
+    "from": "120363429449540402@g.us",
+    "participant": "51961269325860@lid",
+    "timestamp": 1788283278351,
+    "type": "text",
+    "content": "Ok.",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5A5AD5A5DB44C195F0D787C5CDD12B2",
+    "from": "120363429449540402@g.us",
+    "participant": "51961269325860@lid",
+    "timestamp": 1788283416523,
+    "type": "text",
+    "content": "KKKKKKKKKKKKKKKK",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5EF22BE554084840AABB1AD63D587A6",
+    "from": "120363429449540402@g.us",
+    "participant": "51961269325860@lid",
+    "timestamp": 1788283420786,
+    "type": "text",
+    "content": "Sou assim n cr",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC6550CCD694D7A473016D82B8B5E6C0",
+    "from": "120363429449540402@g.us",
+    "participant": "96431142613104@lid",
+    "timestamp": 1788283445454,
+    "type": "text",
+    "content": "é dim",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC412C358AFA9A74E7399D3520CE3154",
+    "from": "120363429449540402@g.us",
+    "participant": "277377661820953@lid",
+    "timestamp": 1788283526717,
+    "type": "text",
+    "content": "add eu nas xerecuda",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC87B97EE2AA6E6358BEB4CD492EBEAF",
+    "from": "120363429449540402@g.us",
+    "participant": "96431142613104@lid",
+    "timestamp": 1788283543762,
+    "type": "text",
+    "content": "ta",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  }
+]

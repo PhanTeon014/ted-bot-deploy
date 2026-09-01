@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ACD71E62EA914E42FC0B4D010EF190DC",
+    "from": "120363428167467522@g.us",
+    "participant": "265064493895900@lid",
+    "timestamp": 1788282436402,
+    "type": "text",
+    "content": "Raspou a bucetinha hoje, meu bem?",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A539956966B615DA3E3E6DD441FDE823",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788283521649,
+    "type": "text",
+    "content": ".",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACE5D3FB5D22C2C35CE703F9CD218F03",
+    "from": "120363428167467522@g.us",
+    "participant": "61083276595228@lid",
+    "timestamp": 1788283798027,
+    "type": "text",
+    "content": "...",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A55F01293FE02A6AFE9F4A58EFAA3B88",
+    "from": "120363428167467522@g.us",
+    "participant": "251470972747882@lid",
+    "timestamp": 1788285692388,
+    "type": "text",
+    "content": "Oi",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5274C953B7311579F6AA04132732133",
+    "from": "120363428167467522@g.us",
+    "participant": "251470972747882@lid",
+    "timestamp": 1788285693067,
+    "type": "text",
+    "content": "Boa tarde",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  }
+]
