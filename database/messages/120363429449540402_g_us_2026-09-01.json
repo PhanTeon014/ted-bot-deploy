@@ -75,5 +75,16 @@
     "quoted": true,
     "mentions": [],
     "isFromMe": false
+  },
+  {
+    "id": "A5525EB92C56A5C9D91CA3AC395CA81D",
+    "from": "120363429449540402@g.us",
+    "participant": "51961269325860@lid",
+    "timestamp": 1788299324869,
+    "type": "sticker",
+    "content": "[Figurinha]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
   }
 ]

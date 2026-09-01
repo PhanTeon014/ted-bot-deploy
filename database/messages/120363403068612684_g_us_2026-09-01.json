@@ -611,5 +611,38 @@
     "quoted": true,
     "mentions": [],
     "isFromMe": false
+  },
+  {
+    "id": "A514B76E2614DDA51B64FC8A09AF7AA2",
+    "from": "120363403068612684@g.us",
+    "participant": "251054511919305@lid",
+    "timestamp": 1788299475987,
+    "type": "text",
+    "content": "Vão má desculpare* são que hrs lá no brasil ?",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A501F187C7CE7760124B40A5E621314F",
+    "from": "120363403068612684@g.us",
+    "participant": "251054511919305@lid",
+    "timestamp": 1788299476518,
+    "type": "text",
+    "content": "Me desculpem yh",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5B2C631C694CAA561FE5D392CDA4752",
+    "from": "120363403068612684@g.us",
+    "participant": "251054511919305@lid",
+    "timestamp": 1788299497236,
+    "type": "text",
+    "content": "É só uma pergunta 👌",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
   }
 ]

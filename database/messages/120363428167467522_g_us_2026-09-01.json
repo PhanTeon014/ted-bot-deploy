@@ -53,5 +53,172 @@
     "quoted": false,
     "mentions": [],
     "isFromMe": false
+  },
+  {
+    "id": "AC4FBDB80BC47EDC81C4BDA4F1AB69A2",
+    "from": "120363428167467522@g.us",
+    "participant": "281007513153569@lid",
+    "timestamp": 1788299324901,
+    "type": "text",
+    "content": "cheio de ódio",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A57DEC0B2BE1FC7BD031FD568E9DC69A",
+    "from": "120363428167467522@g.us",
+    "participant": "99158681731216@lid",
+    "timestamp": 1788299360121,
+    "type": "text",
+    "content": "ainda",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5002E99743A92F793DDB7B0DDEB42C3",
+    "from": "120363428167467522@g.us",
+    "participant": "271412489097400@lid",
+    "timestamp": 1788299404287,
+    "type": "text",
+    "content": "@99158681731216 Jajá eu volto para te xingar seu limpador de parabrisa do caralho",
+    "quoted": false,
+    "mentions": [
+      "99158681731216@lid"
+    ],
+    "isFromMe": false
+  },
+  {
+    "id": "ACB02B4D21C55B7170FE914AF5339B6E",
+    "from": "120363428167467522@g.us",
+    "participant": "59919793401895@lid",
+    "timestamp": 1788299430844,
+    "type": "text",
+    "content": "passoou vergonha baleia moby dick",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACD177872FE790492573E240AA5CDD8B",
+    "from": "120363428167467522@g.us",
+    "participant": "131963457396877@lid",
+    "timestamp": 1788299431721,
+    "type": "text",
+    "content": "Ja vai tarde kkkk",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A53A43D23575874361E45762203AD7B3",
+    "from": "120363428167467522@g.us",
+    "participant": "99158681731216@lid",
+    "timestamp": 1788299489233,
+    "type": "text",
+    "content": "\"paçou vergoinha mobi diki\" sua vagabunda resmungona do caralho",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACCEBA27A8327B329323F21F8D7E9B6D",
+    "from": "120363428167467522@g.us",
+    "participant": "59919793401895@lid",
+    "timestamp": 1788299512496,
+    "type": "text",
+    "content": "escreveu errado ainda",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC88AAA94FA31A1E1FAAC4FE6DA52E6F",
+    "from": "120363428167467522@g.us",
+    "participant": "59919793401895@lid",
+    "timestamp": 1788299515653,
+    "type": "text",
+    "content": "KAKAKAKSSKKAKAAKALALALAALALALALA",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACC52DDBC951A6BD1B4C3027844EC602",
+    "from": "120363428167467522@g.us",
+    "participant": "59919793401895@lid",
+    "timestamp": 1788299526214,
+    "type": "text",
+    "content": "vagabundo do cu preto",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A51BBC403345536BCAB7267BD37734DA",
+    "from": "120363428167467522@g.us",
+    "participant": "99158681731216@lid",
+    "timestamp": 1788299551238,
+    "type": "text",
+    "content": "não tô vendo isso não",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACFA6649BCDD05546F914C17297313E1",
+    "from": "120363428167467522@g.us",
+    "participant": "59919793401895@lid",
+    "timestamp": 1788299576639,
+    "type": "text",
+    "content": "vai baleia moby dick",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC95AD2FC57CF7F2518DFCEDE4A5CC38",
+    "from": "120363428167467522@g.us",
+    "participant": "20719006134444@lid",
+    "timestamp": 1788299577457,
+    "type": "video",
+    "content": "[Vídeo]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "3AF216C30AA923D8C66C",
+    "from": "120363428167467522@g.us",
+    "participant": "184052871082027@lid",
+    "timestamp": 1788299599457,
+    "type": "text",
+    "content": "Para de ligar puta beiçuda dos inferno, carencia da porra tua mulata feiosa",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC1BDB933A936EC681C14BE2AB10CCDF",
+    "from": "120363428167467522@g.us",
+    "participant": "20719006134444@lid",
+    "timestamp": 1788299605282,
+    "type": "video",
+    "content": "[Vídeo]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC2160C09C4C4FBBDB9FAD6813EA3DFB",
+    "from": "120363428167467522@g.us",
+    "participant": "59919793401895@lid",
+    "timestamp": 1788299611880,
+    "type": "text",
+    "content": "?",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
   }
 ]
