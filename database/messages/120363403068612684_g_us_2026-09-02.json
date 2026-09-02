@@ -218,5 +218,16 @@
     "quoted": true,
     "mentions": [],
     "isFromMe": false
+  },
+  {
+    "id": "ACFC33223BB52EE2E8275DBCE61FDF34",
+    "from": "120363403068612684@g.us",
+    "participant": "66044332912859@lid",
+    "timestamp": 1788336108258,
+    "type": "image",
+    "content": "Vendas on \nVem pedindo tabela só vem se for comprar \nAceito Pix cartão",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
   }
 ]
