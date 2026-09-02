@@ -1841,11 +1841,11 @@
     "restrict": true,
     "ephemeralDuration": 86400
   },
-  "lastUpdate": 1788322873452,
+  "lastUpdate": 1788331170738,
   "eventType": "message_activity",
   "stats": {
-    "totalMessages": 1197,
-    "lastActivity": 1788322873452,
-    "activeMembers": 0
+    "totalMessages": 1212,
+    "lastActivity": 1788331170738,
+    "activeMembers": 3
   }
 }

@@ -163,5 +163,60 @@
     "quoted": false,
     "mentions": [],
     "isFromMe": false
+  },
+  {
+    "id": "ACB4222AD59382952E4FFD0457A7F671",
+    "from": "120363403068612684@g.us",
+    "participant": "233316330516705@lid",
+    "timestamp": 1788330454781,
+    "type": "text",
+    "content": "Kkkkkkkkkkkkkkkkkkkkkkk",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC16B76BCA40390FCE434EB1279EDA3D",
+    "from": "120363403068612684@g.us",
+    "participant": "233316330516705@lid",
+    "timestamp": 1788330468822,
+    "type": "text",
+    "content": "Iminini di mamaiz",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC156AFBB99DEEB2A7FF767CD49ACDEB",
+    "from": "120363403068612684@g.us",
+    "participant": "233316330516705@lid",
+    "timestamp": 1788330526559,
+    "type": "text",
+    "content": "KakKKKakakakkakaakkkakakakaka",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACB94B19D9F2499879CE972F758C1DB6",
+    "from": "120363403068612684@g.us",
+    "participant": "233316330516705@lid",
+    "timestamp": 1788330529258,
+    "type": "text",
+    "content": "Vou mijar",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACE9B1530D3875C77EF6957492ABEA3D",
+    "from": "120363403068612684@g.us",
+    "participant": "233316330516705@lid",
+    "timestamp": 1788330541418,
+    "type": "text",
+    "content": "Horrível",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
   }
 ]

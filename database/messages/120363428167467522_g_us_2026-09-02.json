@@ -31,5 +31,141 @@
     "quoted": false,
     "mentions": [],
     "isFromMe": false
+  },
+  {
+    "id": "A5034BE4118537A078C3449C3982371B",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788330576764,
+    "type": "text",
+    "content": "@92999648305344 sou estuprador",
+    "quoted": false,
+    "mentions": [
+      "92999648305344@lid"
+    ],
+    "isFromMe": false
+  },
+  {
+    "id": "A55ADCB834ECB9FEA101C5EAAFCF5C0E",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788330587780,
+    "type": "text",
+    "content": "Respeita seu vagabundo",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A51EAA18350356E11A6FE0DABD106C59",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788330645828,
+    "type": "text",
+    "content": "Tu não vai fazer nada",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A546978B87A936D18D54C380B3D1B9EC",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788330648524,
+    "type": "text",
+    "content": "Macaca",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A561644DE08D697AAC7743666F57618E",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788330659937,
+    "type": "text",
+    "content": "Te marco quando eu quiser",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5B3FA6CE22A1580B844A1E20B827099",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788330670416,
+    "type": "text",
+    "content": "@92999648305344",
+    "quoted": false,
+    "mentions": [
+      "92999648305344@lid"
+    ],
+    "isFromMe": false
+  },
+  {
+    "id": "A543828D637BFA9C0F254A8D2E3EE2CA",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788330705828,
+    "type": "text",
+    "content": "Vou jogar umas verdades na tua cara",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5D8C28D9DB23089993265CE1A1FE92F",
+    "from": "120363428167467522@g.us",
+    "participant": "92999648305344@lid",
+    "timestamp": 1788330707569,
+    "type": "text",
+    "content": "so fala faz prr nenhuma",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5DB828E8016E4757C7F33AC0ACA09B1",
+    "from": "120363428167467522@g.us",
+    "participant": "92999648305344@lid",
+    "timestamp": 1788330716024,
+    "type": "text",
+    "content": "joga tuas irmã",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5BB16D9D90EFF05C4DF994A7D0F9A4A",
+    "from": "120363428167467522@g.us",
+    "participant": "92999648305344@lid",
+    "timestamp": 1788330717724,
+    "type": "text",
+    "content": "tua mae",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5986C5C09C4BAD478E2F52F7EF49FB0",
+    "from": "120363428167467522@g.us",
+    "participant": "92999648305344@lid",
+    "timestamp": 1788330720594,
+    "type": "text",
+    "content": "tuas tia",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A521EAE042F5AB236D98FACF0FCEFE3A",
+    "from": "120363428167467522@g.us",
+    "participant": "179521714172032@lid",
+    "timestamp": 1788330732310,
+    "type": "text",
+    "content": "Vou estuprar tua familia",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
   }
 ]
