@@ -6,4 +6,4 @@ COPY package*.json ./
 RUN npm install --omit=dev
 COPY . .
 ENV NODE_ENV=production
-CMD ["sh", "-c", "if [ -n \"$NUMERO\" ]; then ( printf '%s\\n' \"$NUMERO\" ; tail -f /dev/null ) | node start.js; else node start.js; fi"]
+CMD ["node", "temux.js"]
