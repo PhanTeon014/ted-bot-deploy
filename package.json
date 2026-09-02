@@ -4,7 +4,7 @@
   "description": "🤖 Bot personalizado usando Baileys",
   "author": "tedzinho",
   "license": "MIT",
-  "main": "temux.js",
+  "main": "node server.js",
   "scripts": {
     "start": "node temux.js",
     "dev": "node --watch ./temux.js",
