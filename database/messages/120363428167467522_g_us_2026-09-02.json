@@ -1,0 +1,35 @@
+[
+  {
+    "id": "A503A472B58A2C1F3E497DA09147EA69",
+    "from": "120363428167467522@g.us",
+    "participant": "183846796583073@lid",
+    "timestamp": 1788322846176,
+    "type": "text",
+    "content": "Mds viado q cara burro",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5D6C867E3EAA1DD8BD72E1F3345FD00",
+    "from": "120363428167467522@g.us",
+    "participant": "183846796583073@lid",
+    "timestamp": 1788322869060,
+    "type": "text",
+    "content": "Ele foi racista com uma mina na faculdade pelo o visto kkkkkkkkkkkk",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A548C869FE80E723CF00EC97DB307A4F",
+    "from": "120363428167467522@g.us",
+    "participant": "183846796583073@lid",
+    "timestamp": 1788322873462,
+    "type": "text",
+    "content": "Pqp",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  }
+]

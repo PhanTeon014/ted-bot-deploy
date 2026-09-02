@@ -227,14 +227,14 @@
     "183846796583073@lid": {
       "userId": "183846796583073@lid",
       "userName": "Mutuca",
-      "messages": 62,
+      "messages": 69,
       "commands": 0,
       "stickers": 4
     },
     "220431395123435@lid": {
       "userId": "220431395123435@lid",
       "userName": "¡¡ ᵏᶻ!𝕵𝖚𝖑𝖎𝖊 !!",
-      "messages": 2,
+      "messages": 4,
       "commands": 0,
       "stickers": 2
     },
@@ -248,7 +248,7 @@
     "275114297938038@lid": {
       "userId": "275114297938038@lid",
       "userName": "Rayane bunda magra",
-      "messages": 22,
+      "messages": 24,
       "commands": 0,
       "stickers": 0
     },
@@ -289,8 +289,8 @@
     },
     "73818240467025@lid": {
       "userId": "73818240467025@lid",
-      "userName": "rodrigo chadlite highpsl",
-      "messages": 1,
+      "userName": "rodrigo chadlite ",
+      "messages": 3,
       "commands": 0,
       "stickers": 0
     },
@@ -339,7 +339,7 @@
     "95301700460567@lid": {
       "userId": "95301700460567@lid",
       "userName": "Kenzo",
-      "messages": 2,
+      "messages": 3,
       "commands": 0,
       "stickers": 2
     },
@@ -465,9 +465,9 @@
     "145681733939453@lid": {
       "userId": "145681733939453@lid",
       "userName": "Vidal Macedo",
-      "messages": 71,
+      "messages": 74,
       "commands": 2,
-      "stickers": 23
+      "stickers": 25
     },
     "281007513153569@lid": {
       "userId": "281007513153569@lid",
@@ -521,9 +521,9 @@
     "233316330516705@lid": {
       "userId": "233316330516705@lid",
       "userName": "samantha🤹🏻‍♀️",
-      "messages": 1,
+      "messages": 10,
       "commands": 0,
-      "stickers": 0
+      "stickers": 2
     },
     "98604614193206@lid": {
       "userId": "98604614193206@lid",
@@ -570,7 +570,7 @@
     "99158681731216@lid": {
       "userId": "99158681731216@lid",
       "userName": "loser monologue.",
-      "messages": 3,
+      "messages": 6,
       "commands": 0,
       "stickers": 0
     },
@@ -620,6 +620,20 @@
       "userId": "251054511919305@lid",
       "userName": "~Ä.ß.s ~",
       "messages": 3,
+      "commands": 0,
+      "stickers": 0
+    },
+    "38135065014376@lid": {
+      "userId": "38135065014376@lid",
+      "userName": "Chunchumaru",
+      "messages": 1,
+      "commands": 0,
+      "stickers": 1
+    },
+    "41034822189096@lid": {
+      "userId": "41034822189096@lid",
+      "userName": "Lucas 𝑝 𝑟 𝑧",
+      "messages": 1,
       "commands": 0,
       "stickers": 0
     }
@@ -740,7 +754,7 @@
     "183846796583073@lid": {
       "userId": "183846796583073@lid",
       "userName": "Mutuca",
-      "messages": 78,
+      "messages": 81,
       "commands": 0,
       "stickers": 13
     },
@@ -1093,6 +1107,13 @@
       "messages": 2,
       "commands": 0,
       "stickers": 0
+    },
+    "219499236188256@lid": {
+      "userId": "219499236188256@lid",
+      "userName": "Jorge Junior",
+      "messages": 1,
+      "commands": 0,
+      "stickers": 1
     }
   },
   "120363429449540402@g.us": {
@@ -1129,6 +1150,15 @@
       "userName": "uno",
       "messages": 1,
       "commands": 0,
+      "stickers": 0
+    }
+  },
+  "120363413347136456@g.us": {
+    "51360057806870@lid": {
+      "userId": "51360057806870@lid",
+      "userName": "Kenzo >/ 553. REVBOUNTY",
+      "messages": 0,
+      "commands": 11,
       "stickers": 0
     }
   }

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "AC9ED1D822B2CBCEBCA8CC534DB2E641",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788312242167,
+    "type": "text",
+    "content": "Kenzomenu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": true
+  },
+  {
+    "id": "ACED029B74DD5793EA796569F58722EE",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788313997840,
+    "type": "text",
+    "content": "Kenzos",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": true
+  },
+  {
+    "id": "AC9D2935FBE00DAF0322D695B356D2FF",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788314052524,
+    "type": "text",
+    "content": "Kenzomenu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": true
+  },
+  {
+    "id": "AC6604811B8F6D4AB291932B910E91BA",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788314057291,
+    "type": "text",
+    "content": "Kenzoautofigurinha on",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": true
+  },
+  {
+    "id": "ACF53EBA3C7CB647D00C04282CBEBEFC",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788314066000,
+    "type": "text",
+    "content": "Kenzoautofig on",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": true
+  },
+  {
+    "id": "ACF541B1D4F2A7B659C04A4F8DEC69BC",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788314135807,
+    "type": "text",
+    "content": "Kenzomenu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": true
+  },
+  {
+    "id": "AC40435E9732DB5984DA70B4056740D7",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788314141969,
+    "type": "text",
+    "content": "Kenzomenu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": true
+  },
+  {
+    "id": "AC4DE77B2FD10AF0607F2819D1CB2681",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788314152336,
+    "type": "text",
+    "content": "Kenzomp3 Love",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": true
+  },
+  {
+    "id": "AC8244EE65785E0AB84188886E54801E",
+    "from": "120363413347136456@g.us",
+    "participant": "51360057806870@lid",
+    "timestamp": 1788314164499,
+    "type": "text",
+    "content": "Kenzogerarlink",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": true
+  }
+]
