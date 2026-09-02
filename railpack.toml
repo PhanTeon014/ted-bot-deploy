@@ -1,0 +1,2 @@
+[deploy]
+aptPackages = ["ffmpeg", "imagemagick", "libwebp-dev"]
